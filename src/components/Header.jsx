@@ -3,7 +3,7 @@ const Header = () => {
   const menuFunction = () => {
     const menuBtn = document.getElementById("myNavMenu");
     if (menuBtn.className === "nav-menu") {
-      menuBtn.className += "responsive";
+      menuBtn.className += " responsive";
     } else {
       menuBtn.className = "nav-menu";
     }
