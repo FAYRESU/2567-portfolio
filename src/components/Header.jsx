@@ -43,7 +43,7 @@ const Header = () => {
           Download CV <i className="uil uil-import"></i>
         </button>
       </div>
-      <div className="nev-menu-btn">
+      <div className="nav-menu-btn">
         <i className="uil uil-bars" onClick={menuFunction}></i>
       </div>
     </nav>
